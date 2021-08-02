@@ -1,4 +1,4 @@
-package com.pro.fanlz.multithreading;
+package com.pro.fanlz;
 
 /**
  * @author fanlz
